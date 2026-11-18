@@ -14,8 +14,9 @@ A Python command-line tool that automatically sorts cluttered directories (like 
 ## Usage
 
 Clone the repository and navigate into the project folder:
+
 ```bash
-git clone https://github.com
+git clone https://github.com/jcro25/cli-file-organizer.git
 cd cli-file-organizer
 ```
 
